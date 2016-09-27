@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         echo "Hello world from Stoyan!";
         echo "Promiana v proekta!";
+        echo "Message from Stoyan: I am adding this line on my computer!";
         ?>
     </body>
 </html>
